@@ -1,0 +1,5 @@
+C:\Users\asus\Desktop\TranslllPublish\Translll.exe
+C:\Users\asus\Desktop\TranslllPublish\Translll.dll
+C:\Users\asus\Desktop\TranslllPublish\Translll.deps.json
+C:\Users\asus\Desktop\TranslllPublish\Translll.runtimeconfig.json
+C:\Users\asus\Desktop\TranslllPublish\Translll.pdb
